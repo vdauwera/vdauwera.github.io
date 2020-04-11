@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: vdauwera/vdauwera.github.io
   instagram:
-  linkedin:
+  linkedin:geraldine-van-der-auwera-5a5811
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: VdAGeraldine
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url:http://vdauwera.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
